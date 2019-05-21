@@ -3272,6 +3272,18 @@ body {
 .cid-rr5ln5Griq .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-rr7gl1OebP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-rr7gl1OebP .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rr7gl1OebP .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rr5jKMLIcZ .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3689,7 +3701,7 @@ body {
 .cid-rr5yCsbHCE {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background43.jpg");
+  background-image: url("../../../assets/images/background44.jpg");
 }
 .cid-rr5jKMLIcZ .navbar {
   padding: .5rem 0;
